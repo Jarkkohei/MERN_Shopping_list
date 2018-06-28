@@ -2,6 +2,16 @@
 
 ##
 
+# config/key.js
+
+### Export your Mlab URI
+
+````
+module.exports = {
+    mongoURI: '<YourMlabURIHere>'
+};
+````
+
 # Install:
 
 ```
