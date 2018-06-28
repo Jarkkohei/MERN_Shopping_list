@@ -12,15 +12,33 @@ module.exports = {
 };
 ````
 
-# Install:
+# Install server:
 
 ```
     $ npm install
 ```
 
-# Run server with Nodemon:
+# Install frontend:
+
+```
+    $ npm run client-install
+```
+
+# Run only server with Nodemon:
 
 ```
     $ npm run server
+```
+
+# Run only frontend:
+
+```
+    $ npm run client
+```
+
+# Run server and frontend concurrently:
+
+```
+    $ npm run dev
 ```
 
