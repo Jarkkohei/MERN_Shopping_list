@@ -111,5 +111,8 @@ $RECYCLE.BIN/
 # Configuration files
 config/keys.js
 
+#
+client/node_modules
+
 
 # End of https://www.gitignore.io/api/node,windows,visualstudiocode
